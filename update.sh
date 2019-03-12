@@ -1,0 +1,1 @@
+uname -a > uname.lst
