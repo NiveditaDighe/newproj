@@ -1,1 +1,1 @@
-uname -a > uname.lst
+uname -a > uname_new.lst
